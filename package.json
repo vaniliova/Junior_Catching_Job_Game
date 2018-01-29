@@ -1,0 +1,23 @@
+{
+  "name": "lod_fro_s_04_js_furry_game",
+  "version": "1.0.0",
+  "description": "<img alt=\"Logo\" src=\"http://coderslab.pl/svg/logo-coderslab.svg\" width=\"400\">",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaniliova/LOD_FRO_S_04_JS_furry_game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaniliova/LOD_FRO_S_04_JS_furry_game/issues"
+  },
+  "homepage": "https://github.com/vaniliova/LOD_FRO_S_04_JS_furry_game#readme",
+  "devDependencies": {
+    "webpack": "^3.8.1"
+  },
+  "dependencies": {}
+}
